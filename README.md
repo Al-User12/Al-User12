@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Al-User12
 - 👀 I’m interested in Tech and anime
-- 🌱 I’m currently learning SEO
+- 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Instagram @yaelahfik
 - 📫 How to reach me alfikrikm2@gmail.com
 
