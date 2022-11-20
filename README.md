@@ -13,7 +13,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-alfikrikm2@gmail.com-black?style=flat&logo=Gmail&link=mailto:alfikrikm2@gmail.com)](mailto:alfikrikm2@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-Al-User12-black?style=flat&logo=github&link=https://github.com/Al-User12)](https://www.github.com/Al-User12) 
+[![Github Badge](https://img.shields.io/badge/Al-User12-black?style=flat&logo=github&link=https://github.com/Al-User12)](https://www.github.com/Al-User12) 
 [![Twitter Badge](https://img.shields.io/badge/-xafkmx-black?style=flat&logo=twitter&link=https://twitter.com/xafkmx)](https://twitter.com/xafkmx) 
 [![Facebook Badge](https://img.shields.io/badge/-itsme.fikri-black?style=flat&logo=facebook&link=https://facebook.com/itsme.fikri)](https://facebook.com/itsme.fikri)
 [![Telegram Badge](https://img.shields.io/badge/-Al_User12-black?style=flat&logo=telegram&link=https://telegram.me/Al_User12)](https://telegram.me/Al_User12)
