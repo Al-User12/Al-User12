@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Al-User12
-- 👀 I’m interested in Tech and anime
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Instagram @yaelahfik
-- 📫 How to reach me just DM on contacts bellow 👇
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Al-User12&theme=dracula&rank=-?)](https://github.com/Al-User12/Al-User12)
 
 [![@al_user12's Holopin board](https://holopin.me/al_user12)](https://holopin.io/@al_user12)
 
