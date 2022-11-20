@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech and anime
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Instagram @yaelahfik
-- 📫 How to reach me alfikrikm2@gmail.com
+- 📫 How to reach me just DM on contacts bellow 👇
 
 
 [![@al_user12's Holopin board](https://holopin.me/al_user12)](https://holopin.io/@al_user12)
