@@ -12,6 +12,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-xafkmx-black?style=flat&logo=twitter&link=https://twitter.com/xafkmx)](https://twitter.com/xafkmx) 
 [![Facebook Badge](https://img.shields.io/badge/-itsme.fikri-black?style=flat&logo=facebook&link=https://facebook.com/itsme.fikri)](https://facebook.com/itsme.fikri)
 [![Telegram Badge](https://img.shields.io/badge/-Al_User12-black?style=flat&logo=telegram&link=https://telegram.me/Al_User12)](https://telegram.me/Al_User12)
+[![Instagram Badge](https://img.shields.io/badge/-yaelahfik-black?style=flat&logo=instagram&link=https://instagram.com/yaelahfik)](https://instagram.com/yaelahfik)
 
 
 
