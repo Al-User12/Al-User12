@@ -13,6 +13,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-itsme.fikri-black?style=flat&logo=facebook&link=https://facebook.com/itsme.fikri)](https://facebook.com/itsme.fikri)
 [![Telegram Badge](https://img.shields.io/badge/-Al_User12-black?style=flat&logo=telegram&link=https://telegram.me/Al_User12)](https://telegram.me/Al_User12)
 [![Instagram Badge](https://img.shields.io/badge/-yaelahfik-black?style=flat&logo=instagram&link=https://instagram.com/yaelahfik)](https://instagram.com/yaelahfik)
+[![Tiktok Badge](https://img.shields.io/badge/-al_fikri12-black?style=flat&logo=tiktok&link=https://tiktok.com/al_fikri12)](https://tiktok.com/al_fikri12)
 
 
 
